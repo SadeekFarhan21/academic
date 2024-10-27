@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/stat-3470
 venue: "Ohio State University, Department"
-date: "Fall Semester 2024"
 location: "Columbus, Ohio, USA"
 ---
 

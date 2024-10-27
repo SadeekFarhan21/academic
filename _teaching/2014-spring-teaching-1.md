@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cse-2231
 venue: "Ohio State University, Department"
-date: "Fall Semester 2024"
 location: "Columbus, Ohio, USA"
 ---
 
