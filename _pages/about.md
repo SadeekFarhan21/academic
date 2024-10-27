@@ -8,6 +8,4 @@ In high school, I participated in various programming competitions and hackathon
 
 Feel free to reach out at farhan.sadeek@example.com
 
---- 
-
-Let me know if you’d like any changes or additional information!
+---
