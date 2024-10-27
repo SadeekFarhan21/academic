@@ -21,7 +21,7 @@ repository               : "SadeekFarhan21/academic"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://farhan-sadeek.vercel.app/assets/profile-pic.png"
+  avatar           : "profile-pic.png"
   name             : "Farhan Sadeek"
   pronouns         : # example: "she/her"  
   bio              : "Math + Physics @ Ohio State"
