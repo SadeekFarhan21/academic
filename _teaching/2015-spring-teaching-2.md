@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "STAT 3470: Introduction to Statistics for Engineers"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/stat-3470
+venue: "Ohio State University, Department"
+date: "Fall Semester 2024"
+location: "Columbus, Ohio, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In my role as a Teaching Assistant for STAT 3470, I supported the instruction of statistical methods relevant to engineering. I led discussion sections, assisted with data analysis projects, and provided guidance during labs. My contributions included creating supplemental materials and exercises to reinforce key topics such as probability distributions and hypothesis testing, ensuring students developed a solid foundation in statistical reasoning.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+---
